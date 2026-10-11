@@ -1,0 +1,11 @@
+# 凭据与日志（含个人信息，勿提交）
+config.json
+auth.log
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
